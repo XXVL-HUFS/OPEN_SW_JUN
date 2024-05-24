@@ -20,10 +20,13 @@ _이 레포지토리는 한국외대의 정보통신공학과에서 진행되는
 
 ##
 - 리눅스
+
 ![Linux](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMTJfMTE4/MDAxNDg5MzA3MzQ1MTgw.KqmJui4wG7CVfymQFTxx5mj9G3pnCA0-VYLrnxRawC8g.b7EPdikTxrHtZhdCPUZhjZZa44zuXArJw9lLEXSPqwkg.PNG.wlsdml1103/%EB%A6%AC%EB%88%85%EC%8A%A4.png?type=w800)
 - 깃허브
+
 ![github](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
 - 레플릿
+
 ![replit](https://storage.googleapis.com/gweb-cloudblog-publish/images/replit.max-2500x2500.jpg)
 
 ## 각 폴더에 대한 설명
